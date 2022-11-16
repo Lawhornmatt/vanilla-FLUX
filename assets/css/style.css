@@ -1,0 +1,26 @@
+:root {
+
+    --main-bg-clr: rgb(15, 30, 25);
+    --main-off-wht: rgb(245, 245, 230);
+    --mainFont: ;
+}
+
+/* GENERALIZED  */
+
+body {
+    background-color: var(--main-bg-clr);
+    color: var(--main-off-wht);
+}
+
+/* CLASSES  */
+
+/* IDs  */
+
+/* ACCESSIBILITY  */
+@media (max-width: 690px) {
+
+}
+
+@media (max-width: 500px) {
+
+}
